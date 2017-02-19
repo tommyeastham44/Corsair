@@ -12,7 +12,6 @@ $objLabel.Size = New-Object System.Drawing.Size(30,20)
 $objLabel.Text = "PC :"
 $objForm.Controls.Add($objLabel) 
 
-
 $objTextBox = New-Object System.Windows.Forms.TextBox 
 $objTextBox.Location = New-Object System.Drawing.Size(40,40) 
 $objTextBox.Size = New-Object System.Drawing.Size(150,20) 
